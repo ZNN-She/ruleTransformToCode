@@ -1,0 +1,10 @@
+{
+  "name": "configToJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhangnanning <znn_snake@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}

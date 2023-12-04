@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+.idea
+dist
+dist-ssr
+build
+*.local
+
+yarn-error.log
+package-lock.json
+
+toDo.md
+/pnpm-lock.yaml

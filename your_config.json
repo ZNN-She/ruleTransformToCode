@@ -1,0 +1,9 @@
+{
+  "name": "login",
+  "path": "/test/login",
+  "month": "get",
+  "params": {
+    "account": "string",
+    "password": "string"
+  }
+}
